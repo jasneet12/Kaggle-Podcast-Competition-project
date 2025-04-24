@@ -1,3 +1,8 @@
+![Kaggle Badge](https://img.shields.io/badge/Kaggle-Podcast%20Competition-blue?logo=kaggle&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.11-blue.svg?logo=python)
+![XGBoost](https://img.shields.io/badge/Model-XGBoost-success?logo=githubactions)
+
+
 # 🎧 Kaggle Podcast Competition: Predicting Listening Time
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-Competition-blue.svg)
